@@ -1,4 +1,4 @@
-# EX: Implementation of ElGamal Encryption Algorithm
+# Implementation of ElGamal Encryption Algorithm
 
 ## AIM
 To implement message encryption and decryption using the ElGamal cryptosystem.
